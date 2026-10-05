@@ -1,2 +1,2 @@
 # Daliabot
-Use to exam preparation and free for clg students 
+exam preparation study material 
