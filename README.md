@@ -1,2 +1,1 @@
-# Daliabot
-exam preparation study material 
+TOKEN = "YOUR_NEW_BOT_TOKEN"
